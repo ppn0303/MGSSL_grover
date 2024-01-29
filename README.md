@@ -1,4 +1,4 @@
-# Motif-based Graph Self-Supervised Learning for Molecular Property Prediction with GROVER
+# Motif-based Graph Self-Supervised Learning for Molecular Property Prediction with GROVER Feature
 this model based on Official Pytorch implementation of NeurIPS'21 paper "Motif-based Graph Self-Supervised Learning for Molecular Property Prediction"
 (https://arxiv.org/abs/2110.00987). 
 ## Requirements
